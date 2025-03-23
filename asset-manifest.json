@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/petadopt/static/css/main.687427c8.css",
+    "main.js": "/petadopt/static/js/main.4f0c6443.js",
+    "static/media/aa.jpg": "/petadopt/static/media/aa.b76f1830e80358006f4c.jpg",
+    "static/media/logo.png": "/petadopt/static/media/logo.57d660163cb2af86e7d8.png",
+    "index.html": "/petadopt/index.html",
+    "main.687427c8.css.map": "/petadopt/static/css/main.687427c8.css.map",
+    "main.4f0c6443.js.map": "/petadopt/static/js/main.4f0c6443.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.687427c8.css",
+    "static/js/main.4f0c6443.js"
+  ]
+}
